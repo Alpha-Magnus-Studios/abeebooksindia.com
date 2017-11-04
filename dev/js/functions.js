@@ -24,7 +24,6 @@ function header(page = '') {
         <p class="nav-text"></p>
         <ul class="right chevron">
           <li><a href="index.html">Home</a></li>
-          <li><a href="products.html">Products</a></li>
           <li><a href="about.html">About</a></li>
           <li><a href="gallery.html">Gallery</a></li>
           <li><a href="contact.html">Contact</a></li>
@@ -62,9 +61,8 @@ function footer() {
                   <i class="icon-sli-location-pin text-primary icon3x"></i>
                 </div>
                 <div class="margin-left-70 margin-bottom-30">
-                  <h3 class="margin-bottom-0">Address</h3>
-                  <p>A Bee Books<br>
-                  Lalnagar, Chanpora, Lalnagar, Chanpora,<br>Srinagar, Jammu and Kashmir 190015
+                  <h3 class="margin-bottom-0">A Bee Books</h3>
+                  <p>Lalnagar, Chanpora,<br>Srinagar, Jammu and Kashmir 190015
                   </p>               
                 </div>
                 <div class="float-left">
