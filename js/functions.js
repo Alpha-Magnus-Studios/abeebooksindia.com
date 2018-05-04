@@ -70,8 +70,8 @@ function footer() {
                 </div>
                 <div class="margin-left-70 margin-bottom-30">
                   <h3 class="margin-bottom-0">E-mail</h3>
-                  <p>abeebooksindia@gmail.com<br>
-                  wahidbashir55@gmail.com
+                  <p><a href="mailto:abeebooksindia@gmail.com">abeebooksindia@gmail.com</a><br>
+                  <a href="mailto:wahidbashir55@gmail.com">wahidbashir55@gmail.com</a>
                   </p>              
                 </div>
                 <div class="float-left">
